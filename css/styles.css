@@ -474,8 +474,8 @@ img {
   letter-spacing: 0.03em;
 }
 
-.activity-link:hover .portf-overlay,
-.activity-link:focus .portf-overlay {
+.activity-link:hover .activity-overlay,
+.activity-link:focus .activity-overlay {
   transform: translateY(0);
 }
 
